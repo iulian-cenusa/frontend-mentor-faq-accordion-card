@@ -86,8 +86,8 @@ input:checked + label img{
 This project can be further improved in order to look like the images from the challenge.
 
 What should be done:
-- FAQ title doues not align to the left on large screens even if the content below is.
-- Box illustration image is not align well to the oter image on large screens.
+- FAQ title does not align to the left on large screens even if the content below is.
+- Box illustration image is not align well to the other image on large screens.
 - On mobile screen size there is a big gap between image on the top and the content below.
 
 
